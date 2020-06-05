@@ -1,4 +1,4 @@
-body {
+abody {
   background-color: #F0FFF0;
 }
 
@@ -11,7 +11,7 @@ body {
 .header {
   height : 178px;
   width : 960px;
-  background-image: url("Image/Perencanaan.png");
+  background-image: url("./Image/Pendidikan header.png");
 }
 
 .menu {
