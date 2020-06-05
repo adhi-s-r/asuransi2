@@ -1,0 +1,139 @@
+body {
+  background-color: #F0FFF0;
+}
+
+.template {
+  height : auto;
+  width : 960px;
+  margin : 5px auto ;
+}
+
+.header {
+  height : 178px;
+  width : 960px;
+  background-image: url("image/pendidikan header.png");
+}
+
+.menu {
+  height : 65px;
+  width : 960px;
+  font-size: 21px;
+  background-color : 	#F8F8FF;
+}
+
+.header-right {
+  float: right;
+  margin-right: 20px;
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  text-decoration: none;
+  color: black;
+  font-style : bold ;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-right a:hover {
+  background-color: rgba(169, 169, 169, 0.3);
+}
+
+
+
+.main {
+  height : auto;
+  width : 960px;
+}
+
+.main-left {
+  height : 100%;
+  width : 100%;
+  float :left;
+}
+.judul h2 {
+  text-align: center;
+  font-size: 35px;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.paragraft-1 {
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size : 21px;
+  padding-top : 7px;
+  text-align: justify;
+}
+
+.item {
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 21px;
+  text-align: justify;
+}
+
+.text-content {
+  text-indent: 45px;
+}
+
+.ilustrasi{
+  margin:10px 200px;
+}
+.item p{
+  margin-left: 35px;
+}
+
+.item h4 {
+  font-size: 28px;
+  font-color: red;
+}
+.rumus {
+  margin-left: 50px;
+}
+
+.form {
+  width : 960px;
+  height : 500px;
+  padding-top: 10px;
+  margin-left: 25px;
+}
+.form-left{
+  width: 50%;
+  height :500px;
+  float: right;
+}
+.form-left h3 {
+  font-size: 28px;
+  margin-right: 50px;
+  border-bottom: 2px solid grey;
+}
+
+input , textarea {
+  width : 400px;
+  margin-top : 5px;
+  margin-bottom : 5px;
+  padding :5px;
+  font-size : 21px;
+  border : 1px solid #dee7ec;
+}
+
+.contact-submit {
+  background : #dee7ec;
+  color : #889eab
+}
+
+.form-right{
+  width: 50%;
+  height :500px;
+  float: right;
+}
+
+
+.footer {
+  height : 40px;
+  width : 960px;
+  margin-top : 5px ;
+}
